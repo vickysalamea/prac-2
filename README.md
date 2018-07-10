@@ -8,3 +8,4 @@ Hola este es mi primer repositorio en **GitHub**. Donde e subido una plantilla q
 Link de acceso
 https://revistas.utb.edu.ec/index.php/magazine/article/view/300/
 
+#Hola esto es adicional
